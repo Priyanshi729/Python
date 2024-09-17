@@ -1,2 +1,2 @@
 # Python
-First repository
+First repository in github
